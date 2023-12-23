@@ -96,7 +96,7 @@ Please use the following BibTeX to cite the most recent release.
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/consensys/gnark-crypto/tags).
 
-## License
+## License Details
 
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
 
